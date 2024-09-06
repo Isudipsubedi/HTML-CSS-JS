@@ -23,7 +23,7 @@ body{
 }
 
 .main-container h1{
-    color: white;
+    color: rgb(218, 165, 32);
     font-weight: 500;
 
 }
@@ -39,7 +39,7 @@ body{
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5px;
-    background-color: goldenrod;
+    background-color: hwb(43 13% 15%);
 }
 
 .btn:hover{
