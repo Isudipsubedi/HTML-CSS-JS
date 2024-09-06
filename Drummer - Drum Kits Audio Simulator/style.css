@@ -26,16 +26,17 @@ h1{
     background-color: white;
     border: none;
     margin: 10px ;
-    font-size: 30px;
+    font-size: 20px;
     min-width: 200px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0, .3);
     background-image: url("images/snare.jpg");
     background-size: 50%;
-    color: rgb(255, 255, 255);
+    color:rgb(200, 21, 21);
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
     cursor: pointer;
+    text-transform: capitalize;
 }
 
 .btn:hover{
@@ -43,5 +44,5 @@ h1{
 }
 
 .btn:active{
-    background-size:100% ;
+    background-size:55% ;
 }
